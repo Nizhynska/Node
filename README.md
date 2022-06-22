@@ -6,3 +6,8 @@
 
 _____
 
+#### My main skills:
+- HTML
+- CSS
+- JavaScript 
+____
